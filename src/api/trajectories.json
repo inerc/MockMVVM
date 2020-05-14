@@ -1,0 +1,16 @@
+[
+  {
+    "id": 0,
+    "staffId": "SD",
+    "firstname": "Федор",
+    "lastname": "Иванович",
+    "patronymic": "Иванов"
+  },
+  {
+    "id": 2,
+    "staffId": "344",
+    "firstname": "Михаил",
+    "lastname": "Иванович",
+    "patronymic": "Сергеев"
+  }
+]
